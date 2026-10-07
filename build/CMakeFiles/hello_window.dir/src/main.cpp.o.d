@@ -1,6 +1,6 @@
 CMakeFiles/hello_window.dir/src/main.cpp.o: \
- /home/victoy/OpenGL/src/main.cpp /usr/include/stdc-predef.h \
- /home/victoy/OpenGL/src/config.h /usr/include/c++/15/iostream \
+ /home/victoy/Documentos/OpenGL/src/main.cpp /usr/include/stdc-predef.h \
+ /home/victoy/Documentos/OpenGL/src/config.h /usr/include/c++/15/iostream \
  /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -161,9 +161,18 @@ CMakeFiles/hello_window.dir/src/main.cpp.o: \
  /usr/include/c++/15/bits/basic_ios.tcc \
  /usr/include/c++/15/bits/ostream.tcc /usr/include/c++/15/istream \
  /usr/include/c++/15/bits/istream.tcc \
- /home/victoy/OpenGL/dependencies/glad/glad.h \
- /home/victoy/OpenGL/dependencies/KHR/khrplatform.h \
+ /home/victoy/Documentos/OpenGL/dependencies/glad/glad.h \
+ /home/victoy/Documentos/OpenGL/dependencies/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/15/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/victoy/OpenGL/dependencies/GLFW/include/GLFW/glfw3.h
+ /home/victoy/Documentos/OpenGL/dependencies/GLFW/include/GLFW/glfw3.h \
+ /usr/include/c++/15/fstream /usr/include/c++/15/bits/codecvt.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
+ /usr/include/c++/15/bits/fstream.tcc /usr/include/c++/15/sstream \
+ /usr/include/c++/15/bits/sstream.tcc /usr/include/c++/15/vector \
+ /usr/include/c++/15/bits/stl_uninitialized.h \
+ /usr/include/c++/15/bits/stl_vector.h \
+ /usr/include/c++/15/bits/stl_bvector.h \
+ /usr/include/c++/15/bits/vector.tcc

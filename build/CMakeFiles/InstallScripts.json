@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/victoy/OpenGL/build/cmake_install.cmake"
+		"/home/victoy/Documentos/OpenGL/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

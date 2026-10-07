@@ -4,7 +4,7 @@ hello_window: \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o \
   CMakeFiles/hello_window.dir/src/main.cpp.o \
   CMakeFiles/hello_window.dir/src/glad.c.o \
-  /home/victoy/OpenGL/dependencies/GLFW/lib/libglfw3.a \
+  /home/victoy/Documentos/OpenGL/dependencies/GLFW/lib/libglfw3.a \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libGL.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libX11.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libpthread.a \
@@ -37,7 +37,6 @@ hello_window: \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o \
   /usr/lib/x86_64-linux-gnu/libxcb.so.1 \
   /lib64/ld-linux-x86-64.so.2 \
-  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libgcc_s.so.1 \
   /usr/lib/x86_64-linux-gnu/libXau.so.6 \
   /usr/lib/x86_64-linux-gnu/libXdmcp.so.6
 
@@ -51,7 +50,7 @@ CMakeFiles/hello_window.dir/src/main.cpp.o:
 
 CMakeFiles/hello_window.dir/src/glad.c.o:
 
-/home/victoy/OpenGL/dependencies/GLFW/lib/libglfw3.a:
+/home/victoy/Documentos/OpenGL/dependencies/GLFW/lib/libglfw3.a:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libGL.so:
 
@@ -116,8 +115,6 @@ CMakeFiles/hello_window.dir/src/glad.c.o:
 /usr/lib/x86_64-linux-gnu/libxcb.so.1:
 
 /lib64/ld-linux-x86-64.so.2:
-
-/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libgcc_s.so.1:
 
 /usr/lib/x86_64-linux-gnu/libXau.so.6:
 

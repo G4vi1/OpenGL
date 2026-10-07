@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = 
 
-C_INCLUDES = -I/home/victoy/OpenGL/dependencies -I/home/victoy/OpenGL/dependencies/GLFW/include
+C_INCLUDES = -I/home/victoy/Documentos/OpenGL/dependencies -I/home/victoy/Documentos/OpenGL/dependencies/GLFW/include
 
-C_FLAGS = -g
+C_FLAGS = 
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/victoy/OpenGL/dependencies -I/home/victoy/OpenGL/dependencies/GLFW/include
+CXX_INCLUDES = -I/home/victoy/Documentos/OpenGL/dependencies -I/home/victoy/Documentos/OpenGL/dependencies/GLFW/include
 
-CXX_FLAGS = -g
+CXX_FLAGS = 
 

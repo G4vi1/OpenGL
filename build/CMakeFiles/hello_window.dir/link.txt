@@ -1,1 +1,1 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/hello_window.dir/link.d CMakeFiles/hello_window.dir/src/main.cpp.o CMakeFiles/hello_window.dir/src/glad.c.o -o hello_window  /home/victoy/OpenGL/dependencies/GLFW/lib/libglfw3.a -lGL -lX11 -lpthread -ldl -lm
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hello_window.dir/link.d CMakeFiles/hello_window.dir/src/main.cpp.o CMakeFiles/hello_window.dir/src/glad.c.o -o hello_window  /home/victoy/Documentos/OpenGL/dependencies/GLFW/lib/libglfw3.a -lGL -lX11 -lpthread -ldl -lm

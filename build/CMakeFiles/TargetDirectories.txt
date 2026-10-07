@@ -1,3 +1,3 @@
-/home/victoy/OpenGL/build/CMakeFiles/hello_window.dir
-/home/victoy/OpenGL/build/CMakeFiles/edit_cache.dir
-/home/victoy/OpenGL/build/CMakeFiles/rebuild_cache.dir
+/home/victoy/Documentos/OpenGL/build/CMakeFiles/hello_window.dir
+/home/victoy/Documentos/OpenGL/build/CMakeFiles/edit_cache.dir
+/home/victoy/Documentos/OpenGL/build/CMakeFiles/rebuild_cache.dir

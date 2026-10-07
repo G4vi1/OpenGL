@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/victoy/OpenGL
+CMAKE_SOURCE_DIR = /home/victoy/Documentos/OpenGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/victoy/OpenGL/build
+CMAKE_BINARY_DIR = /home/victoy/Documentos/OpenGL/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hello_window.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/hello_window.dir/codegen:
 .PHONY : CMakeFiles/hello_window.dir/codegen
 
 CMakeFiles/hello_window.dir/src/main.cpp.o: CMakeFiles/hello_window.dir/flags.make
-CMakeFiles/hello_window.dir/src/main.cpp.o: /home/victoy/OpenGL/src/main.cpp
+CMakeFiles/hello_window.dir/src/main.cpp.o: /home/victoy/Documentos/OpenGL/src/main.cpp
 CMakeFiles/hello_window.dir/src/main.cpp.o: CMakeFiles/hello_window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/victoy/OpenGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_window.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/main.cpp.o -MF CMakeFiles/hello_window.dir/src/main.cpp.o.d -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /home/victoy/OpenGL/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/victoy/Documentos/OpenGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_window.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/main.cpp.o -MF CMakeFiles/hello_window.dir/src/main.cpp.o.d -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /home/victoy/Documentos/OpenGL/src/main.cpp
 
 CMakeFiles/hello_window.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello_window.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/victoy/OpenGL/src/main.cpp > CMakeFiles/hello_window.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/victoy/Documentos/OpenGL/src/main.cpp > CMakeFiles/hello_window.dir/src/main.cpp.i
 
 CMakeFiles/hello_window.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello_window.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/victoy/OpenGL/src/main.cpp -o CMakeFiles/hello_window.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/victoy/Documentos/OpenGL/src/main.cpp -o CMakeFiles/hello_window.dir/src/main.cpp.s
 
 CMakeFiles/hello_window.dir/src/glad.c.o: CMakeFiles/hello_window.dir/flags.make
-CMakeFiles/hello_window.dir/src/glad.c.o: /home/victoy/OpenGL/src/glad.c
+CMakeFiles/hello_window.dir/src/glad.c.o: /home/victoy/Documentos/OpenGL/src/glad.c
 CMakeFiles/hello_window.dir/src/glad.c.o: CMakeFiles/hello_window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/victoy/OpenGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello_window.dir/src/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/glad.c.o -MF CMakeFiles/hello_window.dir/src/glad.c.o.d -o CMakeFiles/hello_window.dir/src/glad.c.o -c /home/victoy/OpenGL/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/victoy/Documentos/OpenGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello_window.dir/src/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/glad.c.o -MF CMakeFiles/hello_window.dir/src/glad.c.o.d -o CMakeFiles/hello_window.dir/src/glad.c.o -c /home/victoy/Documentos/OpenGL/src/glad.c
 
 CMakeFiles/hello_window.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hello_window.dir/src/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/victoy/OpenGL/src/glad.c > CMakeFiles/hello_window.dir/src/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/victoy/Documentos/OpenGL/src/glad.c > CMakeFiles/hello_window.dir/src/glad.c.i
 
 CMakeFiles/hello_window.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hello_window.dir/src/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/victoy/OpenGL/src/glad.c -o CMakeFiles/hello_window.dir/src/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/victoy/Documentos/OpenGL/src/glad.c -o CMakeFiles/hello_window.dir/src/glad.c.s
 
 # Object files for target hello_window
 hello_window_OBJECTS = \
@@ -112,9 +112,9 @@ hello_window: CMakeFiles/hello_window.dir/src/main.cpp.o
 hello_window: CMakeFiles/hello_window.dir/src/glad.c.o
 hello_window: CMakeFiles/hello_window.dir/build.make
 hello_window: CMakeFiles/hello_window.dir/compiler_depend.ts
-hello_window: /home/victoy/OpenGL/dependencies/GLFW/lib/libglfw3.a
+hello_window: /home/victoy/Documentos/OpenGL/dependencies/GLFW/lib/libglfw3.a
 hello_window: CMakeFiles/hello_window.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/victoy/OpenGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_window"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/victoy/Documentos/OpenGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_window"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_window.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,6 +126,6 @@ CMakeFiles/hello_window.dir/clean:
 .PHONY : CMakeFiles/hello_window.dir/clean
 
 CMakeFiles/hello_window.dir/depend:
-	cd /home/victoy/OpenGL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/victoy/OpenGL /home/victoy/OpenGL /home/victoy/OpenGL/build /home/victoy/OpenGL/build /home/victoy/OpenGL/build/CMakeFiles/hello_window.dir/DependInfo.cmake "--color=$(COLOR)" hello_window
+	cd /home/victoy/Documentos/OpenGL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/victoy/Documentos/OpenGL /home/victoy/Documentos/OpenGL /home/victoy/Documentos/OpenGL/build /home/victoy/Documentos/OpenGL/build /home/victoy/Documentos/OpenGL/build/CMakeFiles/hello_window.dir/DependInfo.cmake "--color=$(COLOR)" hello_window
 .PHONY : CMakeFiles/hello_window.dir/depend
 
