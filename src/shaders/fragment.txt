@@ -1,0 +1,11 @@
+#version 330 core
+
+// Recebe a cor interpolada entre os três cantos do triângulo.
+in vec3 fragmentColor;
+
+// Cor final de cada pixel que será escrita na janela.
+out vec4 screenColor;
+
+void main() {
+    screenColor = vec4(fragmentColor, 1.0);
+}
