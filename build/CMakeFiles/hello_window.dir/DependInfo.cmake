@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/victoy/Documentos/OpenGL/src/glad.c" "CMakeFiles/hello_window.dir/src/glad.c.o" "gcc" "CMakeFiles/hello_window.dir/src/glad.c.o.d"
   "/home/victoy/Documentos/OpenGL/src/main.cpp" "CMakeFiles/hello_window.dir/src/main.cpp.o" "gcc" "CMakeFiles/hello_window.dir/src/main.cpp.o.d"
+  "/home/victoy/Documentos/OpenGL/src/triangle_mesh.cpp" "CMakeFiles/hello_window.dir/src/triangle_mesh.cpp.o" "gcc" "CMakeFiles/hello_window.dir/src/triangle_mesh.cpp.o.d"
   "" "hello_window" "gcc" "CMakeFiles/hello_window.dir/link.d"
   )
 

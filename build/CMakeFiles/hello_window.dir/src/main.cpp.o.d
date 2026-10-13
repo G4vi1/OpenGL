@@ -167,6 +167,7 @@ CMakeFiles/hello_window.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
  /home/victoy/Documentos/OpenGL/dependencies/GLFW/include/GLFW/glfw3.h \
+ /home/victoy/Documentos/OpenGL/src/triangle_mesh.h \
  /usr/include/c++/15/fstream /usr/include/c++/15/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \

@@ -1,0 +1,14 @@
+#version 330 core
+
+// location 0 recebe posição (X, Y, Z) do TriangleMesh.
+layout (location = 0) in vec3 vertexPos;
+// location 1 recebe a cor (R, G, B) do TriangleMesh.
+layout (location = 1) in vec3 vertexColor;
+
+// A cor será enviada ao fragment shader.
+out vec3 fragmentColor;
+
+void main() {
+    gl_Position = vec4(vertexPos, 1.0);
+    fragmentColor = vertexColor;
+}

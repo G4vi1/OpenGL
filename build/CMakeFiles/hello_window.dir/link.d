@@ -4,6 +4,7 @@ hello_window: \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o \
   CMakeFiles/hello_window.dir/src/main.cpp.o \
   CMakeFiles/hello_window.dir/src/glad.c.o \
+  CMakeFiles/hello_window.dir/src/triangle_mesh.cpp.o \
   /home/victoy/Documentos/OpenGL/dependencies/GLFW/lib/libglfw3.a \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libGL.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libX11.so \
@@ -49,6 +50,8 @@ hello_window: \
 CMakeFiles/hello_window.dir/src/main.cpp.o:
 
 CMakeFiles/hello_window.dir/src/glad.c.o:
+
+CMakeFiles/hello_window.dir/src/triangle_mesh.cpp.o:
 
 /home/victoy/Documentos/OpenGL/dependencies/GLFW/lib/libglfw3.a:
 
