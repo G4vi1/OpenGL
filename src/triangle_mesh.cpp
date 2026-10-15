@@ -19,12 +19,12 @@ TriangleMesh::TriangleMesh() {
     glBufferData(GL_ARRAY_BUFFER, bufferSize, data.data(), 
             GL_STATIC_DRAW);
 
-    //position
+    //posição
     glVertexAttribPointer(0, 3, GL_FLOAT, 
             GL_FALSE, 24, (void*)0);
     glEnableVertexAttribArray(0);
 
-    //color
+    //cores
     glVertexAttribPointer(1, 3, GL_FLOAT, 
             GL_FALSE, 24, (void*)12);
     glEnableVertexAttribArray(1);
